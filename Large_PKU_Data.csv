@@ -1,0 +1,501 @@
+Patient ID,Gene Mutation 1,Gene Mutation 2,Zygosity,Phe Level (µmol/L),PKU Severity,Age,Adherence (%),Kuvan Use
+PKU-6153,c.728G>A,c.728G>A,Heterozygous,160.83,Hyperphenylalaninemia,3,100,No
+PKU-7320,c.782G>A,c.782G>A,Heterozygous,978.52,Mild PKU,4,80,No
+PKU-2203,c.1066-11G>A,c.728G>A,Homozygous,1121.65,Mild PKU,44,50,Yes
+PKU-6496,None,None,Heterozygous,410.58,Mild PKU,13,60,Yes
+PKU-6768,c.442-2A>G,c.728G>A,Homozygous,842.17,Mild PKU,17,50,Yes
+PKU-5100,c.158G>A,c.442-2A>G,Heterozygous,193.91,Hyperphenylalaninemia,29,60,Yes
+PKU-1370,None,c.782G>A,Homozygous,947.46,Mild PKU,3,100,No
+PKU-7072,None,c.1066-11G>A,Heterozygous,2206.62,Classic PKU,40,70,No
+PKU-6824,c.1066-11G>A,c.782G>A,Homozygous,1811.32,Classic PKU,35,50,No
+PKU-9107,c.442-2A>G,c.442-2A>G,Heterozygous,910.98,Mild PKU,32,60,No
+PKU-5479,c.442-2A>G,c.728G>A,Homozygous,1627.12,Classic PKU,1,70,No
+PKU-5630,c.442-2A>G,None,Heterozygous,1794.36,Classic PKU,49,100,No
+PKU-4475,c.1066-11G>A,c.728G>A,Homozygous,295.17,Hyperphenylalaninemia,14,60,Yes
+PKU-6891,None,c.782G>A,Heterozygous,2226.04,Classic PKU,33,50,Yes
+PKU-4401,c.1222C>T,None,Homozygous,2054.86,Classic PKU,31,70,No
+PKU-5082,c.1222C>T,c.442-2A>G,Homozygous,739.04,Mild PKU,18,60,No
+PKU-3066,c.782G>A,c.158G>A,Homozygous,2325.21,Classic PKU,46,90,Yes
+PKU-6231,c.1066-11G>A,c.1222C>T,Homozygous,423.17,Mild PKU,49,70,No
+PKU-1358,c.728G>A,c.158G>A,Homozygous,273.14,Hyperphenylalaninemia,20,90,Yes
+PKU-8791,c.1222C>T,c.728G>A,Heterozygous,578.59,Mild PKU,35,90,No
+PKU-2553,c.1222C>T,None,Heterozygous,876.71,Mild PKU,33,80,Yes
+PKU-6175,c.442-2A>G,c.158G>A,Heterozygous,1762.36,Classic PKU,7,80,Yes
+PKU-1787,None,c.1066-11G>A,Homozygous,2117.17,Classic PKU,22,70,Yes
+PKU-4469,c.1066-11G>A,c.782G>A,Homozygous,269.78,Hyperphenylalaninemia,49,70,No
+PKU-6108,None,c.728G>A,Heterozygous,1609.79,Classic PKU,36,80,No
+PKU-7258,None,c.782G>A,Homozygous,266.8,Hyperphenylalaninemia,46,60,Yes
+PKU-4992,c.1066-11G>A,c.728G>A,Heterozygous,1996.71,Classic PKU,33,80,Yes
+PKU-8809,c.442-2A>G,c.1222C>T,Homozygous,145.06,Hyperphenylalaninemia,11,60,No
+PKU-9141,c.1066-11G>A,c.1222C>T,Homozygous,219.18,Hyperphenylalaninemia,38,100,Yes
+PKU-8210,c.728G>A,c.728G>A,Heterozygous,1374.49,Classic PKU,3,70,No
+PKU-3876,c.1222C>T,c.782G>A,Heterozygous,1084.5,Mild PKU,11,50,No
+PKU-3446,c.1222C>T,c.442-2A>G,Heterozygous,2045.13,Classic PKU,41,50,Yes
+PKU-9322,c.158G>A,c.158G>A,Heterozygous,690.41,Mild PKU,31,70,Yes
+PKU-4392,c.728G>A,None,Heterozygous,693.01,Mild PKU,21,70,Yes
+PKU-1936,c.782G>A,c.158G>A,Homozygous,1022.48,Mild PKU,1,50,Yes
+PKU-1406,c.442-2A>G,c.728G>A,Heterozygous,669.39,Mild PKU,28,60,Yes
+PKU-2978,c.782G>A,c.158G>A,Heterozygous,1120.92,Mild PKU,38,100,Yes
+PKU-6846,c.1066-11G>A,c.158G>A,Heterozygous,1594.21,Classic PKU,23,50,No
+PKU-1154,c.1066-11G>A,c.442-2A>G,Homozygous,353.84,Hyperphenylalaninemia,47,60,No
+PKU-3154,c.1222C>T,c.728G>A,Heterozygous,1324.16,Classic PKU,26,100,Yes
+PKU-1859,None,c.782G>A,Homozygous,184.15,Hyperphenylalaninemia,26,100,No
+PKU-3031,c.158G>A,c.442-2A>G,Homozygous,890.04,Mild PKU,4,70,No
+PKU-3764,c.728G>A,c.1066-11G>A,Homozygous,301.92,Hyperphenylalaninemia,4,100,No
+PKU-4124,c.158G>A,c.158G>A,Homozygous,288.38,Hyperphenylalaninemia,1,70,No
+PKU-6582,c.442-2A>G,c.782G>A,Homozygous,1841.5,Classic PKU,8,50,No
+PKU-5129,c.728G>A,c.158G>A,Heterozygous,2117.88,Classic PKU,18,100,Yes
+PKU-1975,c.728G>A,None,Homozygous,1631.28,Classic PKU,39,70,Yes
+PKU-7067,c.442-2A>G,c.1066-11G>A,Homozygous,310.95,Hyperphenylalaninemia,17,50,No
+PKU-1393,c.158G>A,c.1222C>T,Heterozygous,2192.06,Classic PKU,48,90,No
+PKU-5017,c.1066-11G>A,c.1222C>T,Heterozygous,661.15,Mild PKU,34,50,No
+PKU-6842,c.1066-11G>A,c.1222C>T,Heterozygous,2090.95,Classic PKU,46,100,No
+PKU-9883,c.158G>A,c.728G>A,Heterozygous,1764.6,Classic PKU,16,100,Yes
+PKU-4979,c.782G>A,c.782G>A,Heterozygous,699.35,Mild PKU,31,70,No
+PKU-6373,c.728G>A,c.782G>A,Heterozygous,444.7,Mild PKU,8,50,No
+PKU-5002,c.158G>A,c.1066-11G>A,Homozygous,971.96,Mild PKU,29,80,No
+PKU-8127,c.1222C>T,c.728G>A,Heterozygous,1095.88,Mild PKU,28,60,Yes
+PKU-7451,c.1222C>T,c.728G>A,Homozygous,422.76,Mild PKU,27,70,No
+PKU-7877,None,c.442-2A>G,Heterozygous,680.05,Mild PKU,24,90,No
+PKU-1629,c.158G>A,c.782G>A,Homozygous,1460.36,Classic PKU,6,60,Yes
+PKU-6169,c.782G>A,c.1222C>T,Heterozygous,1045.31,Mild PKU,25,50,No
+PKU-6705,c.782G>A,c.1222C>T,Homozygous,2281.45,Classic PKU,5,80,No
+PKU-7239,c.728G>A,c.442-2A>G,Homozygous,219.48,Hyperphenylalaninemia,11,80,Yes
+PKU-6626,c.728G>A,c.728G>A,Heterozygous,266.31,Hyperphenylalaninemia,16,90,No
+PKU-2975,c.728G>A,None,Homozygous,1599.6,Classic PKU,17,80,Yes
+PKU-3593,c.442-2A>G,c.782G>A,Heterozygous,1339.35,Classic PKU,47,90,Yes
+PKU-6242,None,c.782G>A,Homozygous,310.01,Hyperphenylalaninemia,38,80,No
+PKU-6318,None,c.782G>A,Homozygous,1264.87,Classic PKU,18,100,No
+PKU-6012,c.158G>A,c.1066-11G>A,Heterozygous,2014.97,Classic PKU,40,60,No
+PKU-5490,c.728G>A,None,Homozygous,207.13,Hyperphenylalaninemia,42,90,No
+PKU-4421,c.158G>A,c.728G>A,Homozygous,793.47,Mild PKU,41,60,No
+PKU-5927,c.442-2A>G,None,Homozygous,324.44,Hyperphenylalaninemia,25,50,No
+PKU-6940,None,c.442-2A>G,Homozygous,2268.02,Classic PKU,5,70,Yes
+PKU-9355,None,c.1066-11G>A,Heterozygous,2163.38,Classic PKU,14,70,Yes
+PKU-2600,c.1222C>T,c.782G>A,Homozygous,2272.91,Classic PKU,9,90,No
+PKU-2630,c.1066-11G>A,None,Heterozygous,345.36,Hyperphenylalaninemia,48,100,No
+PKU-3489,c.158G>A,c.1222C>T,Homozygous,1250.56,Classic PKU,37,60,No
+PKU-7886,c.158G>A,c.1222C>T,Homozygous,1922.96,Classic PKU,33,90,Yes
+PKU-3760,c.442-2A>G,c.728G>A,Heterozygous,1268.68,Classic PKU,15,60,No
+PKU-8890,c.782G>A,c.728G>A,Heterozygous,1698.9,Classic PKU,19,50,Yes
+PKU-9032,c.728G>A,c.1222C>T,Heterozygous,1454.23,Classic PKU,20,60,No
+PKU-8146,c.782G>A,c.782G>A,Homozygous,227.72,Hyperphenylalaninemia,16,100,No
+PKU-5146,None,c.1066-11G>A,Homozygous,336.69,Hyperphenylalaninemia,17,60,No
+PKU-8348,c.442-2A>G,c.442-2A>G,Heterozygous,2074.55,Classic PKU,33,80,Yes
+PKU-5024,c.1222C>T,c.782G>A,Homozygous,2240.33,Classic PKU,1,60,No
+PKU-4988,c.1222C>T,c.158G>A,Homozygous,1538.72,Classic PKU,11,80,Yes
+PKU-4445,c.442-2A>G,c.158G>A,Homozygous,620.36,Mild PKU,27,70,No
+PKU-3370,None,c.158G>A,Homozygous,545.23,Mild PKU,16,100,No
+PKU-7813,c.782G>A,c.1066-11G>A,Heterozygous,1983.32,Classic PKU,35,60,Yes
+PKU-9610,c.158G>A,c.1222C>T,Homozygous,2027.66,Classic PKU,3,80,Yes
+PKU-1459,c.1066-11G>A,c.442-2A>G,Homozygous,2300.74,Classic PKU,43,60,No
+PKU-4235,c.158G>A,c.1066-11G>A,Heterozygous,310.83,Hyperphenylalaninemia,24,70,Yes
+PKU-9108,c.782G>A,None,Heterozygous,522.18,Mild PKU,41,50,Yes
+PKU-8648,c.442-2A>G,c.782G>A,Homozygous,1020.59,Mild PKU,44,50,No
+PKU-2170,c.158G>A,c.782G>A,Heterozygous,1319.53,Classic PKU,9,90,No
+PKU-5237,c.1222C>T,c.158G>A,Heterozygous,1034.08,Mild PKU,15,100,Yes
+PKU-9357,c.158G>A,c.1222C>T,Heterozygous,147.54,Hyperphenylalaninemia,25,90,No
+PKU-4822,c.728G>A,None,Heterozygous,1988.29,Classic PKU,13,100,No
+PKU-1738,c.1066-11G>A,c.158G>A,Homozygous,163.15,Hyperphenylalaninemia,9,50,Yes
+PKU-3930,c.782G>A,c.442-2A>G,Heterozygous,1301.01,Classic PKU,43,50,No
+PKU-5081,c.1222C>T,c.1222C>T,Heterozygous,1184.57,Mild PKU,24,90,No
+PKU-5216,c.1222C>T,c.1222C>T,Heterozygous,276.05,Hyperphenylalaninemia,37,70,Yes
+PKU-5726,c.1222C>T,c.158G>A,Homozygous,137.9,Hyperphenylalaninemia,4,70,Yes
+PKU-2981,c.158G>A,c.728G>A,Homozygous,335.93,Hyperphenylalaninemia,5,60,Yes
+PKU-5374,c.1222C>T,None,Heterozygous,2375.39,Classic PKU,20,80,Yes
+PKU-9742,c.728G>A,None,Homozygous,2362.71,Classic PKU,32,60,Yes
+PKU-6545,c.442-2A>G,c.782G>A,Heterozygous,1279.21,Classic PKU,24,90,No
+PKU-6539,None,c.1222C>T,Homozygous,1743.87,Classic PKU,10,100,Yes
+PKU-8244,c.158G>A,None,Heterozygous,1016.69,Mild PKU,1,70,Yes
+PKU-8214,c.1222C>T,c.782G>A,Heterozygous,1635.37,Classic PKU,13,80,Yes
+PKU-7866,c.782G>A,c.158G>A,Homozygous,248.98,Hyperphenylalaninemia,44,90,Yes
+PKU-9673,None,None,Homozygous,1090.58,Mild PKU,34,90,Yes
+PKU-5172,c.442-2A>G,c.1066-11G>A,Homozygous,939.78,Mild PKU,20,80,No
+PKU-2831,c.782G>A,c.158G>A,Homozygous,846.35,Mild PKU,12,80,No
+PKU-8736,c.442-2A>G,c.158G>A,Heterozygous,503.55,Mild PKU,16,90,Yes
+PKU-8296,c.158G>A,c.158G>A,Homozygous,1473.76,Classic PKU,27,50,No
+PKU-8471,c.728G>A,c.728G>A,Homozygous,1013.96,Mild PKU,14,60,Yes
+PKU-3590,c.442-2A>G,None,Homozygous,2346.56,Classic PKU,9,70,Yes
+PKU-7939,c.782G>A,c.442-2A>G,Homozygous,165.99,Hyperphenylalaninemia,20,100,No
+PKU-8746,c.728G>A,c.1066-11G>A,Homozygous,1077.27,Mild PKU,42,80,Yes
+PKU-5779,c.728G>A,c.158G>A,Heterozygous,134.04,Hyperphenylalaninemia,49,50,Yes
+PKU-9043,None,None,Homozygous,355.64,Hyperphenylalaninemia,31,80,Yes
+PKU-8794,None,None,Homozygous,1390.34,Classic PKU,41,90,No
+PKU-5621,c.728G>A,c.782G>A,Homozygous,1115.5,Mild PKU,11,80,Yes
+PKU-8702,c.158G>A,None,Homozygous,290.23,Hyperphenylalaninemia,19,100,Yes
+PKU-4595,c.442-2A>G,c.782G>A,Heterozygous,1086.15,Mild PKU,48,80,Yes
+PKU-4983,c.782G>A,c.728G>A,Homozygous,518.68,Mild PKU,20,60,Yes
+PKU-1051,c.1222C>T,c.158G>A,Heterozygous,313.55,Hyperphenylalaninemia,13,60,Yes
+PKU-3048,c.442-2A>G,c.728G>A,Heterozygous,1711.51,Classic PKU,36,60,No
+PKU-2270,c.782G>A,c.782G>A,Homozygous,320.96,Hyperphenylalaninemia,5,50,Yes
+PKU-3242,c.158G>A,c.158G>A,Homozygous,533.28,Mild PKU,16,100,Yes
+PKU-4951,c.728G>A,c.728G>A,Heterozygous,1567.4,Classic PKU,1,60,No
+PKU-8935,c.442-2A>G,c.782G>A,Heterozygous,222.49,Hyperphenylalaninemia,5,50,Yes
+PKU-5113,c.1066-11G>A,c.1222C>T,Heterozygous,1350.65,Classic PKU,23,100,Yes
+PKU-9746,c.442-2A>G,c.442-2A>G,Homozygous,314.75,Hyperphenylalaninemia,41,90,No
+PKU-7454,c.1066-11G>A,c.442-2A>G,Homozygous,1646.48,Classic PKU,5,70,No
+PKU-4162,c.782G>A,c.1066-11G>A,Homozygous,667.03,Mild PKU,19,80,No
+PKU-4462,c.158G>A,c.158G>A,Heterozygous,221.83,Hyperphenylalaninemia,6,100,Yes
+PKU-1197,c.1066-11G>A,c.728G>A,Heterozygous,2303.15,Classic PKU,4,70,Yes
+PKU-3743,c.442-2A>G,c.1222C>T,Heterozygous,522.7,Mild PKU,45,50,No
+PKU-4665,None,None,Homozygous,2349.7,Classic PKU,28,80,Yes
+PKU-1739,c.728G>A,None,Homozygous,980.46,Mild PKU,28,90,No
+PKU-1129,c.1222C>T,c.728G>A,Homozygous,2145.18,Classic PKU,37,70,No
+PKU-6546,c.1066-11G>A,c.728G>A,Homozygous,454.34,Mild PKU,35,100,Yes
+PKU-4739,None,c.782G>A,Heterozygous,762.75,Mild PKU,21,80,Yes
+PKU-1517,c.1066-11G>A,c.782G>A,Heterozygous,2297.76,Classic PKU,20,100,Yes
+PKU-8058,c.728G>A,c.1066-11G>A,Heterozygous,734.9,Mild PKU,15,80,No
+PKU-2881,c.442-2A>G,None,Heterozygous,353.41,Hyperphenylalaninemia,48,100,No
+PKU-3640,c.782G>A,c.1222C>T,Heterozygous,876.49,Mild PKU,18,70,Yes
+PKU-4118,c.1066-11G>A,c.158G>A,Heterozygous,1482.4,Classic PKU,19,90,Yes
+PKU-2620,c.1066-11G>A,c.728G>A,Homozygous,1460.31,Classic PKU,46,70,No
+PKU-6977,c.158G>A,None,Heterozygous,329.36,Hyperphenylalaninemia,20,100,Yes
+PKU-4927,c.158G>A,c.1222C>T,Heterozygous,1464.99,Classic PKU,47,80,No
+PKU-4382,c.1222C>T,c.1066-11G>A,Homozygous,970.41,Mild PKU,38,90,Yes
+PKU-5995,c.782G>A,c.158G>A,Heterozygous,355.43,Hyperphenylalaninemia,15,60,No
+PKU-5520,c.1066-11G>A,c.1066-11G>A,Homozygous,2242.85,Classic PKU,10,50,No
+PKU-1161,None,c.1222C>T,Homozygous,238.18,Hyperphenylalaninemia,29,90,Yes
+PKU-6686,c.728G>A,c.442-2A>G,Heterozygous,1996.54,Classic PKU,5,60,No
+PKU-9812,c.728G>A,c.442-2A>G,Heterozygous,349.68,Hyperphenylalaninemia,17,60,Yes
+PKU-2294,None,c.1066-11G>A,Heterozygous,1528.62,Classic PKU,37,60,No
+PKU-7001,c.158G>A,c.728G>A,Homozygous,478.6,Mild PKU,24,50,Yes
+PKU-3657,c.1066-11G>A,c.782G>A,Heterozygous,271.41,Hyperphenylalaninemia,25,60,No
+PKU-9041,c.442-2A>G,c.1222C>T,Homozygous,214.51,Hyperphenylalaninemia,38,50,Yes
+PKU-8953,c.782G>A,c.1222C>T,Heterozygous,745.0,Mild PKU,38,50,Yes
+PKU-2190,c.442-2A>G,c.158G>A,Homozygous,164.67,Hyperphenylalaninemia,4,50,No
+PKU-7961,c.782G>A,c.1222C>T,Homozygous,234.25,Hyperphenylalaninemia,25,100,Yes
+PKU-3564,c.442-2A>G,c.1066-11G>A,Homozygous,1417.94,Classic PKU,12,50,Yes
+PKU-6056,c.782G>A,c.158G>A,Heterozygous,1796.18,Classic PKU,36,50,Yes
+PKU-3339,c.728G>A,None,Heterozygous,1785.98,Classic PKU,19,50,No
+PKU-8377,c.728G>A,c.158G>A,Heterozygous,192.24,Hyperphenylalaninemia,6,70,No
+PKU-7119,c.728G>A,None,Heterozygous,311.65,Hyperphenylalaninemia,2,100,No
+PKU-2473,c.1222C>T,c.782G>A,Heterozygous,648.65,Mild PKU,33,70,Yes
+PKU-8392,c.442-2A>G,c.1066-11G>A,Heterozygous,282.27,Hyperphenylalaninemia,28,100,Yes
+PKU-7425,c.728G>A,c.1066-11G>A,Homozygous,160.25,Hyperphenylalaninemia,25,100,Yes
+PKU-3335,c.728G>A,c.158G>A,Heterozygous,282.39,Hyperphenylalaninemia,29,100,Yes
+PKU-6707,c.728G>A,None,Heterozygous,158.09,Hyperphenylalaninemia,17,100,No
+PKU-4476,c.1222C>T,c.158G>A,Homozygous,331.79,Hyperphenylalaninemia,35,50,No
+PKU-9081,c.442-2A>G,c.442-2A>G,Heterozygous,474.13,Mild PKU,4,70,Yes
+PKU-4641,c.728G>A,c.158G>A,Homozygous,143.19,Hyperphenylalaninemia,23,100,No
+PKU-9594,c.782G>A,c.1066-11G>A,Homozygous,252.18,Hyperphenylalaninemia,13,100,No
+PKU-1156,c.782G>A,c.728G>A,Heterozygous,2038.25,Classic PKU,28,80,No
+PKU-5212,c.442-2A>G,c.782G>A,Heterozygous,1897.32,Classic PKU,18,90,Yes
+PKU-2306,c.1066-11G>A,c.728G>A,Homozygous,2353.34,Classic PKU,33,60,No
+PKU-3761,c.728G>A,c.1222C>T,Heterozygous,1035.88,Mild PKU,42,80,Yes
+PKU-9560,c.158G>A,c.442-2A>G,Heterozygous,237.51,Hyperphenylalaninemia,41,80,No
+PKU-7990,None,c.442-2A>G,Heterozygous,1832.11,Classic PKU,31,100,No
+PKU-6955,c.1222C>T,c.1066-11G>A,Heterozygous,2043.8,Classic PKU,13,70,No
+PKU-8030,c.1222C>T,c.1066-11G>A,Homozygous,734.78,Mild PKU,24,80,No
+PKU-4088,c.1222C>T,c.1222C>T,Homozygous,180.2,Hyperphenylalaninemia,42,70,No
+PKU-9038,c.1066-11G>A,c.158G>A,Heterozygous,137.38,Hyperphenylalaninemia,44,60,Yes
+PKU-2262,None,None,Homozygous,685.0,Mild PKU,40,60,No
+PKU-8359,c.158G>A,c.1066-11G>A,Homozygous,1480.44,Classic PKU,19,50,No
+PKU-3914,c.442-2A>G,c.728G>A,Heterozygous,991.68,Mild PKU,17,90,No
+PKU-9921,c.1222C>T,c.728G>A,Homozygous,141.98,Hyperphenylalaninemia,9,80,Yes
+PKU-2611,c.158G>A,c.1066-11G>A,Homozygous,2193.67,Classic PKU,3,70,No
+PKU-6942,c.782G>A,c.158G>A,Heterozygous,691.66,Mild PKU,14,100,Yes
+PKU-9469,c.1066-11G>A,c.782G>A,Homozygous,1259.61,Classic PKU,42,100,Yes
+PKU-8103,c.442-2A>G,c.1066-11G>A,Homozygous,1386.07,Classic PKU,14,80,Yes
+PKU-1017,c.782G>A,c.1222C>T,Homozygous,192.46,Hyperphenylalaninemia,36,100,Yes
+PKU-2369,c.728G>A,c.442-2A>G,Homozygous,471.82,Mild PKU,32,90,Yes
+PKU-3160,c.782G>A,c.1222C>T,Homozygous,2348.89,Classic PKU,43,70,Yes
+PKU-1166,c.728G>A,c.442-2A>G,Homozygous,250.0,Hyperphenylalaninemia,32,90,No
+PKU-1829,c.442-2A>G,c.158G>A,Homozygous,315.83,Hyperphenylalaninemia,6,100,Yes
+PKU-7638,c.442-2A>G,c.158G>A,Heterozygous,597.1,Mild PKU,19,100,Yes
+PKU-8170,c.1066-11G>A,None,Homozygous,1010.53,Mild PKU,19,60,Yes
+PKU-6522,c.158G>A,c.158G>A,Homozygous,2280.78,Classic PKU,31,90,Yes
+PKU-3743,c.782G>A,c.442-2A>G,Heterozygous,843.83,Mild PKU,7,70,No
+PKU-5685,c.1222C>T,c.442-2A>G,Homozygous,2041.27,Classic PKU,42,80,Yes
+PKU-6106,c.442-2A>G,c.442-2A>G,Homozygous,974.47,Mild PKU,3,100,No
+PKU-7519,c.1222C>T,None,Heterozygous,1514.41,Classic PKU,5,90,No
+PKU-5273,c.1222C>T,c.728G>A,Homozygous,361.4,Mild PKU,37,100,Yes
+PKU-2752,c.158G>A,c.1222C>T,Homozygous,1035.49,Mild PKU,37,50,No
+PKU-6385,c.442-2A>G,c.782G>A,Heterozygous,1839.39,Classic PKU,2,60,No
+PKU-2221,c.1066-11G>A,c.1066-11G>A,Heterozygous,230.93,Hyperphenylalaninemia,23,50,No
+PKU-5457,c.442-2A>G,c.1222C>T,Heterozygous,871.23,Mild PKU,9,100,No
+PKU-2684,c.442-2A>G,c.158G>A,Heterozygous,1028.34,Mild PKU,40,80,Yes
+PKU-3540,c.1222C>T,None,Heterozygous,321.49,Hyperphenylalaninemia,43,100,No
+PKU-8901,c.1222C>T,c.728G>A,Homozygous,1491.16,Classic PKU,8,80,No
+PKU-1299,c.1222C>T,None,Heterozygous,1965.98,Classic PKU,15,50,No
+PKU-2991,c.1222C>T,c.1222C>T,Homozygous,270.33,Hyperphenylalaninemia,14,100,Yes
+PKU-1141,c.158G>A,None,Homozygous,415.16,Mild PKU,30,90,Yes
+PKU-8026,None,c.728G>A,Homozygous,1962.57,Classic PKU,19,60,Yes
+PKU-4066,c.1066-11G>A,c.442-2A>G,Homozygous,1289.92,Classic PKU,25,90,No
+PKU-5723,c.782G>A,None,Homozygous,2049.03,Classic PKU,26,60,No
+PKU-7758,c.1066-11G>A,c.442-2A>G,Homozygous,258.2,Hyperphenylalaninemia,35,60,Yes
+PKU-3935,c.1066-11G>A,c.1066-11G>A,Heterozygous,708.97,Mild PKU,23,100,No
+PKU-3692,c.728G>A,c.782G>A,Homozygous,733.6,Mild PKU,21,90,Yes
+PKU-5714,c.1066-11G>A,c.158G>A,Homozygous,517.52,Mild PKU,11,60,No
+PKU-8184,c.442-2A>G,c.1222C>T,Homozygous,1046.44,Mild PKU,48,90,Yes
+PKU-1074,c.442-2A>G,c.1066-11G>A,Homozygous,1068.3,Mild PKU,45,70,Yes
+PKU-4214,c.1066-11G>A,c.442-2A>G,Homozygous,263.62,Hyperphenylalaninemia,42,90,No
+PKU-8677,c.782G>A,c.782G>A,Homozygous,826.17,Mild PKU,2,80,No
+PKU-4112,c.1222C>T,c.1066-11G>A,Homozygous,2050.79,Classic PKU,9,100,Yes
+PKU-4298,None,c.1066-11G>A,Homozygous,173.54,Hyperphenylalaninemia,3,60,No
+PKU-5544,c.728G>A,c.782G>A,Homozygous,183.11,Hyperphenylalaninemia,25,80,No
+PKU-4272,None,c.728G>A,Homozygous,318.85,Hyperphenylalaninemia,36,60,Yes
+PKU-5449,None,c.1066-11G>A,Heterozygous,733.53,Mild PKU,19,100,No
+PKU-1065,c.158G>A,c.1222C>T,Homozygous,2332.38,Classic PKU,37,100,Yes
+PKU-3805,c.1222C>T,c.782G>A,Homozygous,1573.43,Classic PKU,40,50,Yes
+PKU-6422,None,c.728G>A,Heterozygous,1953.23,Classic PKU,32,90,No
+PKU-2235,c.1222C>T,c.1066-11G>A,Homozygous,183.85,Hyperphenylalaninemia,18,90,No
+PKU-3198,c.782G>A,c.1066-11G>A,Heterozygous,180.45,Hyperphenylalaninemia,43,50,No
+PKU-7706,c.728G>A,c.442-2A>G,Homozygous,1363.03,Classic PKU,45,90,No
+PKU-7172,c.782G>A,c.728G>A,Homozygous,316.64,Hyperphenylalaninemia,16,80,Yes
+PKU-8582,c.1222C>T,c.1222C>T,Heterozygous,277.96,Hyperphenylalaninemia,3,80,Yes
+PKU-1659,None,None,Heterozygous,140.76,Hyperphenylalaninemia,20,70,No
+PKU-6117,c.442-2A>G,c.158G>A,Homozygous,1568.11,Classic PKU,26,60,Yes
+PKU-8461,c.782G>A,c.442-2A>G,Homozygous,232.81,Hyperphenylalaninemia,23,100,Yes
+PKU-3237,c.158G>A,c.158G>A,Homozygous,927.22,Mild PKU,29,70,Yes
+PKU-4155,c.1066-11G>A,c.158G>A,Heterozygous,1539.15,Classic PKU,38,90,Yes
+PKU-5576,c.1222C>T,c.1222C>T,Homozygous,820.64,Mild PKU,9,60,No
+PKU-1970,c.1066-11G>A,None,Heterozygous,320.0,Hyperphenylalaninemia,32,70,Yes
+PKU-7647,c.728G>A,c.1066-11G>A,Homozygous,201.71,Hyperphenylalaninemia,33,50,No
+PKU-2540,c.442-2A>G,c.728G>A,Homozygous,295.31,Hyperphenylalaninemia,3,50,No
+PKU-7430,c.1222C>T,c.158G>A,Homozygous,439.34,Mild PKU,3,60,Yes
+PKU-5737,c.1066-11G>A,c.1066-11G>A,Homozygous,143.37,Hyperphenylalaninemia,10,50,No
+PKU-3083,c.728G>A,None,Heterozygous,883.24,Mild PKU,28,50,Yes
+PKU-9130,c.158G>A,c.782G>A,Homozygous,123.62,Hyperphenylalaninemia,10,60,No
+PKU-3504,c.728G>A,c.442-2A>G,Heterozygous,858.97,Mild PKU,20,60,No
+PKU-2672,c.442-2A>G,c.782G>A,Homozygous,696.95,Mild PKU,20,80,Yes
+PKU-6317,None,c.442-2A>G,Heterozygous,669.94,Mild PKU,1,80,Yes
+PKU-8419,c.782G>A,c.442-2A>G,Homozygous,1221.83,Classic PKU,3,80,No
+PKU-5708,c.158G>A,c.782G>A,Homozygous,1185.65,Mild PKU,21,90,No
+PKU-2936,c.442-2A>G,c.442-2A>G,Heterozygous,2287.84,Classic PKU,16,100,Yes
+PKU-3589,c.158G>A,c.728G>A,Homozygous,349.7,Hyperphenylalaninemia,2,60,Yes
+PKU-9698,c.158G>A,c.442-2A>G,Homozygous,196.54,Hyperphenylalaninemia,6,100,No
+PKU-2011,c.728G>A,c.158G>A,Homozygous,728.29,Mild PKU,21,100,No
+PKU-1107,c.782G>A,c.728G>A,Heterozygous,223.24,Hyperphenylalaninemia,25,90,No
+PKU-3050,c.158G>A,c.442-2A>G,Heterozygous,433.71,Mild PKU,33,50,No
+PKU-8354,c.728G>A,c.1066-11G>A,Heterozygous,1608.56,Classic PKU,5,50,No
+PKU-2304,c.1066-11G>A,c.782G>A,Heterozygous,803.85,Mild PKU,47,90,Yes
+PKU-4026,c.158G>A,c.1222C>T,Homozygous,628.92,Mild PKU,16,60,No
+PKU-4141,c.1222C>T,c.728G>A,Homozygous,302.3,Hyperphenylalaninemia,27,100,Yes
+PKU-9594,None,None,Heterozygous,866.91,Mild PKU,31,70,Yes
+PKU-4100,c.158G>A,c.728G>A,Heterozygous,1930.8,Classic PKU,25,70,No
+PKU-5917,c.1066-11G>A,c.442-2A>G,Homozygous,2178.6,Classic PKU,23,80,No
+PKU-9594,c.1066-11G>A,c.158G>A,Heterozygous,2342.57,Classic PKU,24,60,Yes
+PKU-5881,c.782G>A,c.728G>A,Homozygous,982.32,Mild PKU,5,100,No
+PKU-6136,c.728G>A,c.442-2A>G,Homozygous,359.76,Hyperphenylalaninemia,5,80,Yes
+PKU-2672,c.158G>A,c.1222C>T,Homozygous,1257.23,Classic PKU,27,50,Yes
+PKU-9617,c.728G>A,None,Homozygous,2255.84,Classic PKU,35,80,No
+PKU-4250,c.158G>A,None,Heterozygous,501.54,Mild PKU,33,60,No
+PKU-5928,c.728G>A,None,Heterozygous,302.04,Hyperphenylalaninemia,40,60,Yes
+PKU-6089,c.1222C>T,c.158G>A,Homozygous,532.91,Mild PKU,1,50,No
+PKU-7066,c.728G>A,c.1066-11G>A,Heterozygous,193.42,Hyperphenylalaninemia,26,80,No
+PKU-2444,c.728G>A,c.1222C>T,Homozygous,2244.66,Classic PKU,44,60,No
+PKU-7160,c.1066-11G>A,c.782G>A,Homozygous,272.13,Hyperphenylalaninemia,14,50,Yes
+PKU-2216,None,c.158G>A,Homozygous,2018.69,Classic PKU,38,70,Yes
+PKU-5489,c.158G>A,c.728G>A,Heterozygous,501.43,Mild PKU,1,80,Yes
+PKU-9051,c.1222C>T,c.782G>A,Heterozygous,1005.4,Mild PKU,2,80,No
+PKU-4766,None,c.1222C>T,Heterozygous,1103.61,Mild PKU,4,80,No
+PKU-6282,c.442-2A>G,c.442-2A>G,Heterozygous,242.79,Hyperphenylalaninemia,21,100,Yes
+PKU-7474,None,c.442-2A>G,Homozygous,1730.57,Classic PKU,34,100,No
+PKU-7949,c.1066-11G>A,c.442-2A>G,Homozygous,688.09,Mild PKU,6,90,Yes
+PKU-5532,c.158G>A,c.1222C>T,Homozygous,2171.79,Classic PKU,25,80,Yes
+PKU-5214,c.728G>A,c.1066-11G>A,Homozygous,269.58,Hyperphenylalaninemia,24,90,Yes
+PKU-9063,c.728G>A,c.782G>A,Heterozygous,2121.01,Classic PKU,44,80,No
+PKU-5689,c.782G>A,c.1066-11G>A,Heterozygous,179.83,Hyperphenylalaninemia,23,70,Yes
+PKU-6712,c.728G>A,None,Homozygous,130.53,Hyperphenylalaninemia,19,60,Yes
+PKU-2975,c.728G>A,c.1066-11G>A,Heterozygous,1793.79,Classic PKU,49,90,Yes
+PKU-5849,c.1066-11G>A,c.782G>A,Homozygous,1141.4,Mild PKU,27,80,No
+PKU-6944,c.782G>A,None,Heterozygous,941.45,Mild PKU,47,100,Yes
+PKU-8117,c.728G>A,c.1222C>T,Homozygous,2011.36,Classic PKU,34,70,No
+PKU-9709,c.442-2A>G,c.1222C>T,Homozygous,1201.73,Classic PKU,28,100,No
+PKU-6907,None,c.1066-11G>A,Heterozygous,1818.74,Classic PKU,42,60,Yes
+PKU-9110,c.1222C>T,c.158G>A,Homozygous,695.92,Mild PKU,8,80,No
+PKU-5771,c.442-2A>G,c.782G>A,Heterozygous,133.51,Hyperphenylalaninemia,27,90,No
+PKU-1692,c.158G>A,c.1066-11G>A,Homozygous,163.66,Hyperphenylalaninemia,3,70,No
+PKU-2229,c.1066-11G>A,c.728G>A,Heterozygous,277.68,Hyperphenylalaninemia,14,90,Yes
+PKU-7670,c.728G>A,c.728G>A,Heterozygous,1489.88,Classic PKU,32,70,Yes
+PKU-4357,c.728G>A,c.782G>A,Homozygous,673.99,Mild PKU,49,90,No
+PKU-9040,c.442-2A>G,c.158G>A,Heterozygous,261.58,Hyperphenylalaninemia,17,100,No
+PKU-6938,c.728G>A,c.442-2A>G,Homozygous,2166.59,Classic PKU,39,60,No
+PKU-9537,c.1222C>T,c.158G>A,Heterozygous,343.62,Hyperphenylalaninemia,14,50,No
+PKU-2242,c.158G>A,c.782G>A,Homozygous,266.82,Hyperphenylalaninemia,28,90,No
+PKU-1566,c.442-2A>G,c.442-2A>G,Homozygous,218.3,Hyperphenylalaninemia,23,100,Yes
+PKU-6239,c.442-2A>G,c.782G>A,Heterozygous,2179.18,Classic PKU,47,80,No
+PKU-6214,c.1222C>T,None,Homozygous,1360.87,Classic PKU,1,100,Yes
+PKU-9504,c.1066-11G>A,c.1222C>T,Homozygous,557.07,Mild PKU,46,70,No
+PKU-8142,c.782G>A,c.1066-11G>A,Homozygous,2043.62,Classic PKU,20,60,Yes
+PKU-3521,c.728G>A,c.782G>A,Heterozygous,796.84,Mild PKU,32,90,Yes
+PKU-1100,c.158G>A,c.728G>A,Homozygous,279.9,Hyperphenylalaninemia,21,80,Yes
+PKU-3660,c.728G>A,c.782G>A,Heterozygous,1000.18,Mild PKU,6,100,No
+PKU-9163,c.782G>A,c.728G>A,Heterozygous,2372.24,Classic PKU,9,60,Yes
+PKU-4681,c.782G>A,c.728G>A,Heterozygous,337.39,Hyperphenylalaninemia,36,60,Yes
+PKU-8007,c.782G>A,None,Heterozygous,1564.42,Classic PKU,45,60,No
+PKU-3284,c.728G>A,c.782G>A,Heterozygous,902.6,Mild PKU,20,60,Yes
+PKU-4297,c.782G>A,c.1222C>T,Homozygous,792.22,Mild PKU,49,70,Yes
+PKU-7498,c.1066-11G>A,c.158G>A,Homozygous,1717.62,Classic PKU,3,70,Yes
+PKU-2885,None,c.728G>A,Homozygous,624.45,Mild PKU,27,90,Yes
+PKU-5376,c.782G>A,c.1222C>T,Heterozygous,266.56,Hyperphenylalaninemia,42,90,No
+PKU-8840,c.1066-11G>A,c.782G>A,Homozygous,1767.62,Classic PKU,16,50,Yes
+PKU-3350,c.728G>A,c.728G>A,Homozygous,129.87,Hyperphenylalaninemia,34,50,Yes
+PKU-9264,c.158G>A,c.728G>A,Homozygous,1525.72,Classic PKU,33,70,Yes
+PKU-5386,None,c.728G>A,Homozygous,591.69,Mild PKU,13,50,Yes
+PKU-2049,c.1066-11G>A,c.1222C>T,Heterozygous,2387.99,Classic PKU,49,90,No
+PKU-2880,c.728G>A,c.1066-11G>A,Homozygous,313.5,Hyperphenylalaninemia,23,90,Yes
+PKU-5413,c.782G>A,None,Homozygous,325.91,Hyperphenylalaninemia,2,50,No
+PKU-7810,c.782G>A,c.442-2A>G,Homozygous,156.96,Hyperphenylalaninemia,37,90,Yes
+PKU-1184,c.782G>A,c.158G>A,Homozygous,667.7,Mild PKU,49,70,No
+PKU-4387,c.1066-11G>A,c.1222C>T,Heterozygous,1222.04,Classic PKU,24,90,No
+PKU-2861,c.1222C>T,c.1066-11G>A,Heterozygous,1065.28,Mild PKU,49,50,Yes
+PKU-7071,None,c.728G>A,Homozygous,1571.97,Classic PKU,21,50,No
+PKU-2186,c.158G>A,c.158G>A,Heterozygous,1233.4,Classic PKU,18,90,No
+PKU-1138,None,c.728G>A,Homozygous,1294.98,Classic PKU,9,70,No
+PKU-4431,c.1222C>T,c.1066-11G>A,Homozygous,648.9,Mild PKU,29,90,No
+PKU-3955,c.1222C>T,c.442-2A>G,Homozygous,321.9,Hyperphenylalaninemia,1,60,Yes
+PKU-1428,c.442-2A>G,c.1222C>T,Homozygous,1135.4,Mild PKU,28,50,Yes
+PKU-9720,c.782G>A,c.442-2A>G,Heterozygous,843.67,Mild PKU,6,50,Yes
+PKU-7824,c.1066-11G>A,c.728G>A,Homozygous,158.57,Hyperphenylalaninemia,28,80,No
+PKU-8975,c.728G>A,c.1222C>T,Homozygous,141.75,Hyperphenylalaninemia,38,100,Yes
+PKU-5151,c.728G>A,c.728G>A,Homozygous,488.95,Mild PKU,41,80,Yes
+PKU-1813,None,c.158G>A,Heterozygous,154.66,Hyperphenylalaninemia,2,50,No
+PKU-9130,c.728G>A,c.782G>A,Heterozygous,383.42,Mild PKU,29,60,No
+PKU-3823,c.442-2A>G,c.1222C>T,Homozygous,395.33,Mild PKU,8,70,No
+PKU-8999,None,c.782G>A,Heterozygous,136.9,Hyperphenylalaninemia,34,50,No
+PKU-2849,None,c.158G>A,Homozygous,292.05,Hyperphenylalaninemia,11,100,Yes
+PKU-2019,c.158G>A,c.158G>A,Heterozygous,496.29,Mild PKU,36,90,No
+PKU-4702,None,None,Homozygous,1945.31,Classic PKU,40,60,Yes
+PKU-6352,None,c.158G>A,Homozygous,2344.7,Classic PKU,4,50,Yes
+PKU-8866,c.1222C>T,c.1222C>T,Heterozygous,1086.91,Mild PKU,32,60,Yes
+PKU-8292,c.158G>A,c.158G>A,Heterozygous,2122.05,Classic PKU,49,70,No
+PKU-6758,c.1066-11G>A,c.1222C>T,Homozygous,307.18,Hyperphenylalaninemia,47,50,Yes
+PKU-5450,c.158G>A,None,Homozygous,268.7,Hyperphenylalaninemia,45,70,Yes
+PKU-9260,c.782G>A,None,Heterozygous,1438.42,Classic PKU,10,50,Yes
+PKU-4068,c.782G>A,c.1222C>T,Heterozygous,348.36,Hyperphenylalaninemia,47,50,No
+PKU-5277,c.782G>A,c.728G>A,Heterozygous,1300.78,Classic PKU,32,80,Yes
+PKU-1270,c.728G>A,c.158G>A,Heterozygous,265.12,Hyperphenylalaninemia,19,90,No
+PKU-5187,c.158G>A,c.1066-11G>A,Homozygous,1290.11,Classic PKU,23,50,Yes
+PKU-6112,c.782G>A,c.1222C>T,Heterozygous,293.9,Hyperphenylalaninemia,33,100,Yes
+PKU-8496,c.782G>A,c.1222C>T,Homozygous,309.45,Hyperphenylalaninemia,31,80,No
+PKU-5234,c.1222C>T,c.728G>A,Heterozygous,244.89,Hyperphenylalaninemia,6,100,No
+PKU-6116,c.158G>A,c.1222C>T,Homozygous,683.81,Mild PKU,32,100,No
+PKU-9689,None,c.782G>A,Heterozygous,1582.31,Classic PKU,9,50,Yes
+PKU-7264,c.158G>A,c.728G>A,Heterozygous,1066.29,Mild PKU,41,70,Yes
+PKU-5227,None,c.1222C>T,Homozygous,1413.29,Classic PKU,33,80,No
+PKU-8496,c.782G>A,c.442-2A>G,Homozygous,221.25,Hyperphenylalaninemia,1,60,Yes
+PKU-6293,c.782G>A,c.442-2A>G,Homozygous,380.44,Mild PKU,8,90,No
+PKU-1147,c.158G>A,c.728G>A,Homozygous,386.81,Mild PKU,17,90,Yes
+PKU-7025,c.782G>A,c.1222C>T,Heterozygous,292.43,Hyperphenylalaninemia,35,50,Yes
+PKU-5019,c.158G>A,None,Heterozygous,840.4,Mild PKU,1,90,Yes
+PKU-7018,c.1222C>T,c.442-2A>G,Heterozygous,250.2,Hyperphenylalaninemia,1,70,No
+PKU-1619,c.158G>A,c.1066-11G>A,Homozygous,2080.79,Classic PKU,36,80,Yes
+PKU-7536,c.158G>A,c.158G>A,Heterozygous,492.42,Mild PKU,28,80,No
+PKU-7938,c.1222C>T,c.728G>A,Homozygous,1313.39,Classic PKU,27,50,No
+PKU-3158,None,c.728G>A,Homozygous,1051.34,Mild PKU,26,80,No
+PKU-6953,c.158G>A,c.728G>A,Heterozygous,1849.0,Classic PKU,31,70,Yes
+PKU-8638,c.1066-11G>A,c.1066-11G>A,Homozygous,208.01,Hyperphenylalaninemia,1,50,No
+PKU-3765,c.782G>A,None,Heterozygous,994.5,Mild PKU,23,100,Yes
+PKU-5486,c.728G>A,c.442-2A>G,Heterozygous,252.04,Hyperphenylalaninemia,17,70,No
+PKU-1754,None,None,Heterozygous,1186.06,Mild PKU,46,70,No
+PKU-7552,c.782G>A,None,Homozygous,315.2,Hyperphenylalaninemia,26,70,No
+PKU-8392,c.442-2A>G,c.442-2A>G,Homozygous,294.01,Hyperphenylalaninemia,9,70,No
+PKU-7670,c.442-2A>G,c.1066-11G>A,Heterozygous,793.17,Mild PKU,42,90,No
+PKU-8878,c.1222C>T,c.728G>A,Heterozygous,520.96,Mild PKU,37,50,No
+PKU-1802,c.158G>A,c.442-2A>G,Heterozygous,955.39,Mild PKU,29,50,No
+PKU-1458,None,c.728G>A,Heterozygous,186.85,Hyperphenylalaninemia,43,90,Yes
+PKU-9452,c.782G>A,c.1222C>T,Homozygous,1745.73,Classic PKU,30,80,Yes
+PKU-7524,c.728G>A,None,Homozygous,607.75,Mild PKU,24,90,No
+PKU-6941,None,c.1066-11G>A,Homozygous,337.22,Hyperphenylalaninemia,8,80,No
+PKU-9450,c.1066-11G>A,c.1066-11G>A,Homozygous,236.44,Hyperphenylalaninemia,31,90,No
+PKU-9397,None,c.158G>A,Homozygous,1036.21,Mild PKU,26,80,Yes
+PKU-7007,c.158G>A,c.728G>A,Heterozygous,2073.19,Classic PKU,3,50,No
+PKU-6397,None,None,Homozygous,1943.97,Classic PKU,30,90,Yes
+PKU-9948,c.728G>A,c.158G>A,Heterozygous,968.25,Mild PKU,35,100,Yes
+PKU-3994,c.728G>A,c.1066-11G>A,Heterozygous,756.47,Mild PKU,46,50,Yes
+PKU-7816,c.442-2A>G,c.1066-11G>A,Homozygous,1538.72,Classic PKU,32,60,Yes
+PKU-1713,c.158G>A,c.728G>A,Homozygous,288.21,Hyperphenylalaninemia,24,100,No
+PKU-2513,c.158G>A,c.1222C>T,Heterozygous,2251.77,Classic PKU,32,100,No
+PKU-7380,c.728G>A,c.782G>A,Homozygous,156.36,Hyperphenylalaninemia,40,80,Yes
+PKU-4516,c.1222C>T,c.728G>A,Heterozygous,689.39,Mild PKU,34,90,No
+PKU-4647,None,None,Heterozygous,1746.01,Classic PKU,34,60,No
+PKU-4451,c.1222C>T,c.158G>A,Homozygous,2332.3,Classic PKU,20,80,No
+PKU-4759,c.728G>A,c.158G>A,Homozygous,877.18,Mild PKU,8,100,No
+PKU-9346,c.1066-11G>A,c.782G>A,Heterozygous,780.09,Mild PKU,11,60,No
+PKU-1737,c.442-2A>G,c.442-2A>G,Heterozygous,1233.07,Classic PKU,41,80,No
+PKU-6613,c.1222C>T,c.442-2A>G,Heterozygous,700.39,Mild PKU,3,100,Yes
+PKU-1900,c.442-2A>G,c.1066-11G>A,Heterozygous,159.94,Hyperphenylalaninemia,30,60,Yes
+PKU-6232,c.442-2A>G,c.442-2A>G,Heterozygous,167.81,Hyperphenylalaninemia,15,90,Yes
+PKU-2800,c.158G>A,c.158G>A,Heterozygous,1587.41,Classic PKU,14,80,Yes
+PKU-2786,c.1222C>T,None,Heterozygous,410.91,Mild PKU,12,80,No
+PKU-4212,c.728G>A,c.1066-11G>A,Heterozygous,1823.13,Classic PKU,31,70,Yes
+PKU-5289,c.158G>A,c.442-2A>G,Homozygous,2028.97,Classic PKU,43,50,No
+PKU-1601,c.1066-11G>A,None,Heterozygous,330.68,Hyperphenylalaninemia,33,50,No
+PKU-2077,c.1222C>T,None,Homozygous,266.01,Hyperphenylalaninemia,12,90,No
+PKU-7143,c.442-2A>G,c.1222C>T,Homozygous,741.47,Mild PKU,3,100,No
+PKU-9666,c.442-2A>G,c.158G>A,Heterozygous,1158.72,Mild PKU,6,100,No
+PKU-9222,c.158G>A,c.782G>A,Heterozygous,237.47,Hyperphenylalaninemia,32,100,No
+PKU-6378,c.1066-11G>A,c.1066-11G>A,Homozygous,622.04,Mild PKU,47,100,No
+PKU-6088,c.728G>A,c.1222C>T,Heterozygous,1573.37,Classic PKU,16,70,No
+PKU-2734,c.1222C>T,c.728G>A,Heterozygous,193.29,Hyperphenylalaninemia,27,70,Yes
+PKU-9641,c.442-2A>G,c.782G>A,Homozygous,287.52,Hyperphenylalaninemia,2,100,No
+PKU-3216,c.442-2A>G,c.782G>A,Homozygous,1194.9,Mild PKU,30,80,No
+PKU-7712,None,c.782G>A,Homozygous,1465.05,Classic PKU,29,50,No
+PKU-3915,c.782G>A,c.728G>A,Heterozygous,260.97,Hyperphenylalaninemia,35,100,Yes
+PKU-4656,c.442-2A>G,None,Homozygous,244.67,Hyperphenylalaninemia,35,80,Yes
+PKU-4916,c.158G>A,c.728G>A,Heterozygous,196.29,Hyperphenylalaninemia,14,50,Yes
+PKU-4606,c.442-2A>G,c.728G>A,Homozygous,240.94,Hyperphenylalaninemia,48,70,No
+PKU-2182,c.728G>A,c.442-2A>G,Homozygous,1808.76,Classic PKU,36,50,Yes
+PKU-8105,c.158G>A,None,Homozygous,1307.91,Classic PKU,25,70,No
+PKU-4254,None,c.728G>A,Heterozygous,304.38,Hyperphenylalaninemia,2,100,No
+PKU-5358,c.1066-11G>A,c.1222C>T,Homozygous,2198.27,Classic PKU,9,50,Yes
+PKU-8341,c.782G>A,c.1066-11G>A,Homozygous,2338.35,Classic PKU,4,100,No
+PKU-9998,c.158G>A,c.442-2A>G,Heterozygous,436.11,Mild PKU,28,50,No
+PKU-6871,None,c.1066-11G>A,Heterozygous,1423.77,Classic PKU,7,50,Yes
+PKU-1085,c.782G>A,c.728G>A,Homozygous,1402.18,Classic PKU,48,80,No
+PKU-7464,c.728G>A,c.158G>A,Homozygous,1004.4,Mild PKU,24,60,Yes
+PKU-2438,c.442-2A>G,None,Homozygous,753.32,Mild PKU,41,90,No
+PKU-1093,c.158G>A,None,Heterozygous,1666.95,Classic PKU,25,80,No
+PKU-3182,c.1222C>T,c.782G>A,Heterozygous,343.62,Hyperphenylalaninemia,45,60,Yes
+PKU-4448,None,c.442-2A>G,Heterozygous,1929.48,Classic PKU,27,80,No
+PKU-3887,c.158G>A,c.442-2A>G,Homozygous,1765.85,Classic PKU,39,90,No
+PKU-4222,c.728G>A,None,Heterozygous,1157.22,Mild PKU,37,60,No
+PKU-6859,c.442-2A>G,c.728G>A,Homozygous,177.34,Hyperphenylalaninemia,1,60,Yes
+PKU-4699,c.728G>A,c.442-2A>G,Homozygous,738.44,Mild PKU,43,60,No
+PKU-3827,c.1066-11G>A,c.158G>A,Heterozygous,241.45,Hyperphenylalaninemia,33,100,Yes
+PKU-7388,c.728G>A,c.1222C>T,Homozygous,170.18,Hyperphenylalaninemia,2,50,Yes
+PKU-8929,None,c.728G>A,Heterozygous,2103.44,Classic PKU,15,90,No
+PKU-1004,c.728G>A,c.442-2A>G,Homozygous,1184.24,Mild PKU,16,60,Yes
+PKU-6321,c.1222C>T,c.782G>A,Heterozygous,738.85,Mild PKU,42,70,Yes
+PKU-1932,c.158G>A,c.158G>A,Heterozygous,1379.28,Classic PKU,46,100,Yes
+PKU-1256,c.1222C>T,c.1222C>T,Heterozygous,1188.13,Mild PKU,41,90,No
+PKU-1544,c.158G>A,c.158G>A,Heterozygous,2102.69,Classic PKU,21,80,Yes
+PKU-8639,c.1222C>T,c.1066-11G>A,Heterozygous,1317.58,Classic PKU,16,80,Yes
+PKU-1073,c.1066-11G>A,c.442-2A>G,Heterozygous,1107.36,Mild PKU,40,50,Yes
+PKU-2196,c.158G>A,c.442-2A>G,Heterozygous,2019.22,Classic PKU,36,100,No
+PKU-2006,None,c.158G>A,Homozygous,343.33,Hyperphenylalaninemia,39,50,Yes
+PKU-6146,c.1066-11G>A,c.1066-11G>A,Heterozygous,352.96,Hyperphenylalaninemia,30,100,No
+PKU-6253,c.782G>A,None,Heterozygous,336.98,Hyperphenylalaninemia,7,90,No
+PKU-1298,None,c.442-2A>G,Heterozygous,1005.4,Mild PKU,20,90,No
+PKU-9664,None,c.782G>A,Homozygous,205.03,Hyperphenylalaninemia,30,90,No
+PKU-2625,c.728G>A,c.1222C>T,Heterozygous,750.99,Mild PKU,17,80,No
+PKU-1783,c.158G>A,c.158G>A,Homozygous,837.04,Mild PKU,5,60,Yes
+PKU-1689,c.1222C>T,c.1066-11G>A,Heterozygous,745.49,Mild PKU,8,80,No
+PKU-9116,c.1066-11G>A,c.442-2A>G,Heterozygous,261.28,Hyperphenylalaninemia,17,50,No
+PKU-8720,c.1222C>T,c.728G>A,Heterozygous,991.66,Mild PKU,21,90,No
+PKU-4629,None,None,Heterozygous,233.56,Hyperphenylalaninemia,9,80,No
+PKU-7554,c.442-2A>G,c.1222C>T,Heterozygous,927.6,Mild PKU,23,70,No
+PKU-2009,c.1222C>T,None,Homozygous,1896.04,Classic PKU,37,90,Yes
+PKU-6045,c.782G>A,c.442-2A>G,Homozygous,1648.44,Classic PKU,15,70,Yes
+PKU-9134,c.1222C>T,c.1066-11G>A,Homozygous,152.85,Hyperphenylalaninemia,40,70,No
+PKU-5179,c.442-2A>G,None,Heterozygous,175.78,Hyperphenylalaninemia,32,90,Yes
+PKU-7133,c.728G>A,c.1066-11G>A,Homozygous,160.55,Hyperphenylalaninemia,44,100,Yes
+PKU-1916,c.782G>A,c.158G>A,Homozygous,1689.12,Classic PKU,48,90,Yes
+PKU-3259,c.1066-11G>A,None,Heterozygous,629.38,Mild PKU,29,50,No
+PKU-6726,None,None,Heterozygous,1356.74,Classic PKU,16,60,Yes
+PKU-6457,c.158G>A,None,Homozygous,280.5,Hyperphenylalaninemia,40,60,No
+PKU-6732,None,c.728G>A,Homozygous,1168.31,Mild PKU,47,90,No
+PKU-6191,c.1222C>T,c.1066-11G>A,Heterozygous,1479.68,Classic PKU,36,70,No
+PKU-4535,None,None,Homozygous,188.77,Hyperphenylalaninemia,26,50,No
+PKU-1425,c.728G>A,c.1066-11G>A,Heterozygous,719.58,Mild PKU,28,70,No
+PKU-5055,c.158G>A,c.782G>A,Homozygous,920.11,Mild PKU,42,80,No
+PKU-1879,c.158G>A,c.1222C>T,Heterozygous,2280.3,Classic PKU,39,60,Yes
+PKU-8341,c.1222C>T,c.1222C>T,Heterozygous,1613.63,Classic PKU,21,90,Yes
+PKU-5123,c.782G>A,c.1222C>T,Heterozygous,1293.95,Classic PKU,14,70,No
+PKU-7824,c.1222C>T,c.782G>A,Heterozygous,1853.35,Classic PKU,25,90,No
+PKU-6039,c.1222C>T,c.728G>A,Heterozygous,198.63,Hyperphenylalaninemia,25,100,Yes
+PKU-8347,c.782G>A,c.782G>A,Heterozygous,385.16,Mild PKU,13,90,No
+PKU-8828,c.1066-11G>A,None,Heterozygous,376.28,Mild PKU,44,50,Yes
+PKU-8398,None,c.1066-11G>A,Heterozygous,2183.1,Classic PKU,1,50,No
+PKU-4868,c.1222C>T,c.442-2A>G,Heterozygous,236.79,Hyperphenylalaninemia,5,80,Yes
